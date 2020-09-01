@@ -10,5 +10,7 @@ public class GitTest {
     @Test
     public void test01() throws Exception{
         System.out.println("can you hear me"); //edit by echo
+        System.out.println("yes i can"); //edit by echo
+
     }
 }
